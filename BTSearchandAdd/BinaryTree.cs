@@ -65,6 +65,14 @@ namespace BTSearchandAdd
             return null;
         }
 
+        public static bool Contains(Node root, int value)
+        {
+            if (root == null) return false;
+            if (root.Data == value) return true;
+            if (root.Data > value) return Contains(root.LeftNode, value);
+            return Contains(root.RightNode, value);
+        }
+
         public int GetTreeDepth()
         {
             return this.GetTreeDepth(this.Root);

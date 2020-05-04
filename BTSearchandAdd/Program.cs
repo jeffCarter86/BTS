@@ -23,8 +23,8 @@ namespace BTSearchandAdd
             Node node = binaryTree.Search(5);
             Console.WriteLine();
             int depth = binaryTree.GetTreeDepth();
+            
 
-           
 
 
             Console.WriteLine("PreOrder Traversal:");
