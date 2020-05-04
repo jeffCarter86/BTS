@@ -65,6 +65,11 @@ namespace BTSearchandAdd
             return null;
         }
 
+        public Node Contains(bool value)
+        {
+            return this.Contains(value);
+        }
+
         public static bool Contains(Node root, int value)
         {
             if (root == null) return false;

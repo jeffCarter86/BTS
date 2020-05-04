@@ -4,3 +4,4 @@ C:\Users\jeff\Desktop\school\week4\projects\BTSearchandAdd\BTSearchandAdd\bin\De
 C:\Users\jeff\Desktop\school\week4\projects\BTSearchandAdd\BTSearchandAdd\obj\Debug\BTSearchandAdd.csproj.CoreCompileInputs.cache
 C:\Users\jeff\Desktop\school\week4\projects\BTSearchandAdd\BTSearchandAdd\obj\Debug\BTSearchandAdd.exe
 C:\Users\jeff\Desktop\school\week4\projects\BTSearchandAdd\BTSearchandAdd\obj\Debug\BTSearchandAdd.pdb
+C:\Users\jeff\Desktop\school\week4\projects\BTSearchandAdd\BTSearchandAdd\obj\Debug\BTSearchandAdd.csprojAssemblyReference.cache
