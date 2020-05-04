@@ -17,32 +17,8 @@ namespace BTSearchandAdd
         public int key;
         public int count;
         
-        public Node Parent { get; set; }
-        
-        public int numberInNode;
-
-            //constructor
-
-
-            public Node(int numberInNode)
-            {
-
-                this.numberInNode = numberInNode;
-               LeftNode = null;
-                RightNode = null;
-            }
-
-            public int NumberInNode
-            {
-                get
-                {
-                    return numberInNode;
-                }
-                set
-                {
-                    numberInNode = value;
-                }
-            }
+      
+     
 
          
 
